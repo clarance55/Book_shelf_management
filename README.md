@@ -10,7 +10,7 @@ This project is a Python-based application for a bookstore's inventory managemen
 
 ## Features
 
-The program offers a comprehensive menu-driven interface with the following functionalities:
+The program offers a comprehensive menu-driven interface with the following functionalities: 
 
 * [cite_start]*Enter book*: Add new book records to the database[cite: 28].
 * [cite_start]*Update book*: Modify existing book information, such as the quantity, title, or author ID[cite: 29, 45].
